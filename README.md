@@ -42,9 +42,6 @@ public class PedroRafael {
 
 ## 📊 Languages & Stats
 
-<details>
-<summary><b>🖥 Abrir dashboard interativo (HTML)</b></summary>
-
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
